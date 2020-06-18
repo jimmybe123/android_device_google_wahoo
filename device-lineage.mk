@@ -13,7 +13,7 @@ PRODUCT_PRODUCT_PROPERTIES += \
     ro.opa.eligible_device=true
 
 # Overlays
-DEVICE_PACKAGE_OVERLAYS += device/google/wahoo/overlay-lineage
+#DEVICE_PACKAGE_OVERLAYS += device/google/wahoo/overlay-lineage
 
 # Snap
 PRODUCT_PACKAGES += \
